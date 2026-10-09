@@ -29,8 +29,7 @@ I enjoy creating digital experiences that are not only functional, but also aest
 - 💻 **Focus:** Front-End Development & UI/UX
 - 🎨 **Interest:** Web Design, Digital Art & Creative Technology
 - 📊 **Also Enjoy:** Microsoft Excel & Data Management
-- 🌸 **Design Style:** Pink, Dark Mode & Cyberpunk Aesthetic
-- 🚀 **Current Project:** NPC — New Personal Computer Recommendation Platform
+- 🚀 **Current Project:** Auto Fan Cooling System berbasis Arduino Uno
 
 ---
 
